@@ -1,0 +1,12 @@
+Customer Order Number:1254
+Customer Name:xcvfgvbn
+Customer Contact Number:dfbg
+  Location:Cape Town
+ Customer Address:sdf
+Customer Email Address:cvfb
+ 
+You have ordered from Burger Land
+You ordered 5
+and the price is R52.0 the total amount will be R260.0
+Special Preperations:adfvb
+If you need to contact the restaurant their Number is: 656165165161

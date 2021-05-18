@@ -1,0 +1,15 @@
+Ann	6547
+Becky	7841
+Betty	6647
+Brad	4485
+Charlie	1245
+Collin	85
+Debby	3254
+Dennis	1111
+Fred	5645
+Hank	20
+Joan	1784
+John	3325
+Mel	9654
+Sally	1225
+Sam	2345
